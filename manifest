@@ -1,10 +1,10 @@
 CACHE MANIFEST
-https://ark5oj.github.io/mikutap/data/main/main.json
-https://ark5oj.github.io/mikutap/data/track/track.json
-https://ark5oj.github.io/mikutap/js/mikutap.min.js
-https://ark5oj.github.io/mikutap/shared/js/common-2.min.js
-https://ark5oj.github.io/mikutap/css/mikutap.css
-https://ark5oj.github.io/mikutap/shared/sp/css/common.css
+https://akirarika.github.io/mikutap/data/main/main.json
+https://akirarika.github.io/mikutap/data/track/track.json
+https://akirarika.github.io/mikutap/js/mikutap.min.js
+https://akirarika.github.io/mikutap/shared/js/common-2.min.js
+https://akirarika.github.io/mikutap/css/mikutap.css
+https://akirarika.github.io/mikutap/shared/sp/css/common.css
 https://fonts.loli.net/css?family=Quicksand:400
 https://cdnjs.loli.net/ajax/libs/pixi.js/3.0.11/pixi.min.js
 https://cdnjs.loli.net/ajax/libs/gsap/1.19.1/TweenMax.min.js
